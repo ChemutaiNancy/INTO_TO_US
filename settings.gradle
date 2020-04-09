@@ -1,0 +1,2 @@
+rootProject.name='USSD'
+include ':app'
